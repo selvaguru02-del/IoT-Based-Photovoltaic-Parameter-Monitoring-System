@@ -143,7 +143,7 @@ Upload the communication/cloud program to the NodeMCU ESP8266.
 
 Power the system and observe readings through the Arduino serial tools and Firebase database.
 
-Security note: Do not commit Wi-Fi passwords, Firebase secrets, API keys, or other credentials to a public GitHub repository. Store credentials in a local configuration file excluded with .gitignore, or use another secret-management method.
+**Security note:** Do not commit Wi-Fi passwords, Firebase secrets, API keys, or other credentials to a public GitHub repository. Store credentials in a local configuration file excluded with .gitignore, or use another secret-management method.
 
 **Results**
 
